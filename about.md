@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Name - Mohd Hazique
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi everyone i am hazique living in delhi just joined in coredge as linux admin
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+MObile NO. 8826886562
+Email id. haziquek597@gmail.com
