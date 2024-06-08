@@ -1,8 +1,8 @@
 ---
- layout: post
- title: DAY TWO AT COREDGE
- date: 2024-6-5
---
+layout: post
+title: DAY TWO AT COREDGE
+date: 2024-6-5
+---
 
 On day two feelingsgood with my teams and trainer as always 
 i have covered GIT on day 2.. i have learned about git what exactly it is...
