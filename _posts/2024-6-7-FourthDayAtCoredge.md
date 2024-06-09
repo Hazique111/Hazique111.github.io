@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Day 4th At Coredge as a linux Admin
+title: DAY FOUR AT COREDGE..
 date: 2024-6-7
 ---
 
-*It's day four as a Linux Admin Trainee at Coredge and it is a great day!*
+**ON DAY FOUR**
 
-I am doing my task which is given by Satya my Trainer.
+on day 4 i have covered about vim and known about what exactly it is 
+how it works..it helped alot editing purpose ...
 
-Here is  my today's task to do research on *VIM*
+**Here is  my today's task to do research on *VIM**
 
 *VIM*
 
