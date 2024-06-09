@@ -1,10 +1,10 @@
 ---
 layout: post
 title: DAY ONE AT COREDGE
-date: 2024-6-3
+date: 2024-6-4
 ---
 
-**DAY ONE AT COREDGE AS LINUX ADMIN**
+**2024-6-4 DAY ONE AS A LINUX ADMIN**
 
 On day one i met with my linux team and trainer and they were very humble 
 and good guy and i have learned so many things from sattaya sirr he motivates us..
