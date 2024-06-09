@@ -3,6 +3,7 @@
  title: DAY FIVE AT COREDGE
  date: 2024-6-8
 ---
+**2024-6-8- AS A LINUX ADMIN**
 
 On day 5 it was a great feelings as always i have covered some topics like shell scripting
 i have covered lots of things about scripting. lets talk about
