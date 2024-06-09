@@ -1,10 +1,10 @@
 ---
 layout: post
-title: DAY 3 AT COREDGE
+title: DAY THREE AT COREDGE
 date: 2024-6-6
 ---
 
-**ON Day 3**
+**2024-6-6 ON Day THREE AS A LINUX ADMIN**
 
 it was great day as always i feel very happy with my teams..On this day 
 i have covered some linux useful command which really helped me alot...
