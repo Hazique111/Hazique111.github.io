@@ -4,6 +4,8 @@ title: DAY TWO AT COREDGE
 date: 2024-6-5
 ---
 
+**2024-6-5 ON DAY TWO AS LINUX ADMIN**
+
 On day two feelingsgood with my teams and trainer as always 
 i have covered GIT on day 2.. i have learned about git what exactly it is...
    
