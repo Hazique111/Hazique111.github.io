@@ -4,7 +4,7 @@ title: DAY FOUR AT COREDGE..
 date: 2024-6-7
 ---
 
-**ON DAY FOUR**
+**ON DAY FOUR 2024-6-7 AS A LINUX ADMIN**
 
 on day 4 i have covered about vim and known about what exactly it is 
 how it works..it helped alot editing purpose ...
