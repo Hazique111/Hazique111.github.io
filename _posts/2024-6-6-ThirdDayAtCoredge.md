@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Day 3 At Coredge as a linux Admin
+title: DAY 3 AT COREDGE
 date: 2024-6-6
 ---
 
-*It's day three as a Linux Admin Trainee at Coredge and it is a great day!*
+**ON Day 3**
 
-Satya give us a file which is having the topics related to our training.
-So I am starting with one of these topic which is Basic commands in linux and shell scripting.
+it was great day as always i feel very happy with my teams..On this day 
+i have covered some linux useful command which really helped me alot...
 
-*Here are some Basic Command and its work.*
+**Here are some Basic Command**
 ---
 
  - *ls* - listing the content in a directory.
