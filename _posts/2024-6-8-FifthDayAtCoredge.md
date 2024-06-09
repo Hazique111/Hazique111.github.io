@@ -1,6 +1,6 @@
 ---
  layout: post
- title: Day 5 At Coredge as a linux admin
+ title: DAY FIVE AT COREDGE
  date: 2024-6-8
 ---
 
