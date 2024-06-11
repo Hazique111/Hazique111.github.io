@@ -30,7 +30,9 @@ MBR is an acronym for Master Boot Record and is liable to load and run the GRUB 
 
 GRUB
 
-GRUB is sometimes known as GNU GRUB, which stands for GNU GRand Unified Bootloader. It is the classic bootloader for almost all the latest Linux systems. The splash screen of GRUB is often the initial thing we see when we boot our system. It contains a general menu where we can choose some portions.
+GRUB is sometimes known as GNU GRUB, which stands for GNU GRand Unified Bootloader. It is the classic bootloader for 
+almost all the latest Linux systems. The splash screen of GRUB is often the initial thing we see when we boot our system. 
+It contains a general menu where we can choose some portions.
 We can use our keyboard to choose the one we wish our system to initiate with if we have multiple installed kernel images. The latest kernel image is chosen by default. The splash screen will delay for some seconds for us to choose options. It will load the kernel image (default) if we don't. In several systems, we can see the GRUB configuration file at /etc/grub/conf or /boot/grub/grub.conf.
 Kernel
 Often, the kernel is called the code of an operating system. It contained full control on everything in our system. In this boot process stage, the kernel mounts the base file system that was chosen that is set up in the file, i.e., grub.conf. Then, it runs the /sbin/init function, which is always the initial function to be run. We can confirm it with its PID (process id), which should be always 1. Then, the kernel creates a temporary base file system with the help of initrd (Initial RAM Disk) until the actual file system is mounted.
