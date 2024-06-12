@@ -99,10 +99,39 @@ administrator is working or repairing a filesystem.
 
 **/root:** It's the home directory for a root user. Keep in mind that it's not the '/' (root) file system.
 
-**/tmp: It is a temporary directory used by the OS and several programs for storing temporary files. Also, users may temporarily store files here. Remember that files may be removed without prior notice at any time in this directory.
+**/tmp:** It is a temporary directory used by the OS and several programs for storing temporary files. Also, users may temporarily store files here. Remember that files may be removed without prior notice at any time in this directory.
 
-/sbin: These are system binary files. They are executables utilized for system administration.
+**/sbin:** These are system binary files. They are executables utilized for system administration.
 
-/usr: They are read-only and shareable files, including executable libraries and binaries, man files, and several documentation types.
+**/usr:** They are read-only and shareable files, including executable libraries and binaries, man files, and several documentation types.
 
-/var: Here, variable data files are saved. It can contain things such as MySQL, log files, other database files, email inboxes, web server data files, and much more.
+**/var:** Here, variable data files are saved. It can contain things such as MySQL, log files, other database files, email 
+inboxes, web server data files, and much more.
+
+**Types of Linux File System**
+
+When we install the Linux operating system, Linux offers many file systems such as Ext, Ext2, Ext3, Ext4, JFS, ReiserFS, XFS, 
+btrfs, and swap.
+
+**Ext, Ext2, Ext3 and Ext4 file system**
+
+The file system Ext stands for Extended File System. It was primarily developed for MINIX OS. The Ext file system is an older 
+version, and is no longer used due to some limitations.
+
+**Ext2:**is the first Linux file system that allows managing two terabytes of data. **Ext3:** is developed through Ext2 it is an upgraded version of Ext2 and contains backward compatibility. The major drawback of Ext3 is that it does not support servers because this file system does not support file recovery and disk snapshot.
+
+**Ext4:** file system is the faster file system among all the Ext file systems. It is a very compatible option for the SSD 
+(solid-state drive) disks, and it is the default file system in Linux distribution.
+
+**XFS File System**
+XFS file system was considered as high-speed JFS, which is developed for parallel I/O processing. NASA still using this file 
+system with its high storage server (300+ Terabyte server).
+
+
+**Btrfs File System**
+Btrfs stands for the B tree file system. It is used for fault tolerance, repair system, fun administration, extensive storage 
+configuration, and more. It is not a good suit for the production system.
+
+**Swap File System**
+The swap file system is used for memory paging in Linux operating system during the system hibernation. A system that never 
+goes in hibernate state is required to have swap space equal to its RAM size.
