@@ -97,6 +97,7 @@ james:
 
 ---
 # This is a simple playbook with two plays
+
 - name: First play
  hosts: web.example.com
  tasks:
