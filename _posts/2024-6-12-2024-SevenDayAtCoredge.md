@@ -98,21 +98,21 @@ james:
 ---
 # This is a simple playbook with two plays
 
-- name: First play
- hosts: web.example.com
- tasks:
- - name: First task
- ansible.builtin.dnf:
- name: httpd
- status: present
- - name: Second task
- ansible.builtin.service:
- name: httpd
- enabled: true
-- name: Second play
- hosts: database.example.com
- tasks:
- - name: First task
- ansible.builtin.service:
- name: mariadb
- enabled: true
+name: First play
+hosts: web.example.com
+tasks:
+    name: First task
+    ansible.builtin.dnf:
+    name: httpd
+    status: present
+name: Second task
+ansible.builtin.service:
+name: httpd
+enabled: true
+   name: Second play
+   hosts: database.example.com
+   tasks:
+       name: First task
+       ansible.builtin.service:
+       name: mariadb
+       enabled: true
